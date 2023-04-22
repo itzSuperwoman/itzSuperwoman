@@ -8,7 +8,7 @@ Apaixonada por Qualidade de Software e Tecnologia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="40" width="40" src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/java.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Selenium" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="postman" height="35" width="35" src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg">
   <img align="center" alt="cypress" height="45" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
