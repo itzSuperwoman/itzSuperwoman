@@ -1,6 +1,8 @@
-## Oii gente! Eu sou a Monica Camargo, trabalho como QA e sou completamente apaixonada por tecnologia!
+## Oii oi, sejam bem-vindos!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)
+Apaixonada por Qualidade de Software e Tecnologia.
+
+![Moniquera GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -12,7 +14,7 @@
   <img align="right" alt="pic" height="120" style="border-radius:50px;" src="https://instagram.fbfh9-1.fna.fbcdn.net/v/t51.2885-15/182520410_2449129168563766_6285556460644462485_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fbfh9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3zzVoDzobmEAX_2mnKV&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjU2NjIwNDE5OTc1NzcxMjQ2Ng%3D%3D.2-ccb7-5&oh=00_AfAjayryKe7Ho_yjivFuqPjtVOE2mp4lBFGenlMu5Ekkpw&oe=6449C4CF&_nc_sid=6136e7">
 </div>
   
-  ##
+  ## Tecnologias que eu uso no meu dia
  
 <div> 
   
