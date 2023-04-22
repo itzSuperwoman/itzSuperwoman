@@ -7,9 +7,10 @@ Apaixonada por Qualidade de Software e Tecnologia.
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/java.svg">
   <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg">
+  <img align="center" alt="postman" height="30" width="40" src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg">
+  <img align="center" alt="cypress" height="30" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
