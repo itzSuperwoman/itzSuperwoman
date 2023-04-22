@@ -13,7 +13,6 @@ Apaixonada por Qualidade de Software e Tecnologia.
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pic" height="120" style="border-radius:50px;" src="https://instagram.fbfh9-1.fna.fbcdn.net/v/t51.2885-15/182520410_2449129168563766_6285556460644462485_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fbfh9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3zzVoDzobmEAX_2mnKV&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjU2NjIwNDE5OTc1NzcxMjQ2Ng%3D%3D.2-ccb7-5&oh=00_AfAjayryKe7Ho_yjivFuqPjtVOE2mp4lBFGenlMu5Ekkpw&oe=6449C4CF&_nc_sid=6136e7">
 </div><br/>
   
   ## Redes sociais
