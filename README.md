@@ -1,6 +1,6 @@
 ## Oii gente! Eu sou a Monica Camargo, trabalho como QA e sou completamente apaixonada por tecnologia!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)]
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
