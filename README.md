@@ -3,6 +3,7 @@
 Apaixonada por Qualidade de Software e Tecnologia.
 
 ![Moniquera GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)
+<img align="right" alt="gif" height="150" width="125" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
 
 ## Ferramentas e Tecnologias que eu uso no meu dia
 
@@ -15,7 +16,7 @@ Apaixonada por Qualidade de Software e Tecnologia.
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
-  
+                                                                                                                                                     
   ## Redes sociais
  
 <div> 
@@ -26,4 +27,4 @@ Apaixonada por Qualidade de Software e Tecnologia.
 
 
 
-<img align="right" alt="gif" height="150" width="125" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
+
