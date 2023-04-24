@@ -3,7 +3,7 @@
 Apaixonada por Qualidade de Software e Tecnologia.
 
 ![Moniquera GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSuperwoman&&count_private=true&show_icons=true&theme=dracula)
-<img align="right" alt="gif" height="150" width="125" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
+<img align="right" alt="gif" height="200" width="160" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
 
 ## Ferramentas e Tecnologias que eu uso no meu dia
 
