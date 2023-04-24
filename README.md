@@ -26,4 +26,4 @@ Apaixonada por Qualidade de Software e Tecnologia.
 
 
 
-<img align="right" alt="gif" height="268" width="214" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
+<img align="right" alt="gif" height="150" width="125" src="https://i.pinimg.com/originals/28/15/b1/2815b17710ba6e7e911b0154083213d3.gif"/>
