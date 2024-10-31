@@ -15,7 +15,7 @@ Apaixonada por Qualidade de Software e Tecnologia.
   <img align="center" alt="js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://datakurre.pandala.org/static/3f8a2cb074a67be4fb8570f6d8312bc2/2bef9/robot.png)">
+  <img align="center" alt="CSS" height="35" width="40" src="https://datakurre.pandala.org/static/3f8a2cb074a67be4fb8570f6d8312bc2/2bef9/robot.png">
 </div><br/>
                                                                                                                                                      
   ## Redes sociais
